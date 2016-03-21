@@ -1,0 +1,12 @@
+.ingredients {
+	text-align: center;
+	width: 33%;
+	margin: 0 auto;
+}
+.instructions {
+	width: 75%;
+	margin: 0 auto;
+}
+body {
+	background-color: #FEFBF2;
+}
