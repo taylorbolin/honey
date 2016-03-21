@@ -1,26 +1,22 @@
-/*.big {
-	font size: 900%;
-}*/
 body {
-    background-color: #B0D8CD;
+    background-color: #51959a;
 }
 .honeycombs{
 	position: relative;
 	overflow: hidden;
 	width: 100%;
 	text-align: center;
-	top: 50%;
+	height: 100%;
 }
 
-.honeycombs .inner_sn{
+.honeycombs .inner_span{
 	display: block;
 	height: 100%;
 	width: 100%;
-	background-color: white;
+	background-color: #7dab9a;
 	font-family: sans-serif;
 	color: #000;
 }
-
 .honeycombs .inner-text{
 	padding-top: 40%;
 }

@@ -5,7 +5,7 @@
         // Establish our default settings
         var settings = $.extend({
             combWidth: 250,
-            margin: 10
+            margin: 0
         }, options);
 
         function initialise(element) {
