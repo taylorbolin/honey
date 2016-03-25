@@ -1,12 +1,19 @@
 .ingredients {
 	text-align: center;
-	width: 33%;
+	width: 50%;
 	margin: 0 auto;
+	font-family: arial;
 }
 .instructions {
-	width: 75%;
+	width: 50%;
 	margin: 0 auto;
+	font-family: arial;
+	text-align: center;
 }
 body {
 	background-color: #FEFBF2;
+}
+.title {
+	font-family: 'UnifrakturCook', cursive;
+	text-align: center;
 }
